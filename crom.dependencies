@@ -2,7 +2,6 @@
   {
     "repository": "X-ROM/android_device_samsung_galaxysmtd",
     "target_path": "device/samsung/galaxysmtd",
-    "revision":    "kitkat"
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_aries",
@@ -12,7 +11,6 @@
   {
     "repository": "X-ROM/android_device_samsung_aries-common",
     "target_path": "device/samsung/aries-common",
-    "revision":    "kitkat"
   },
    {
     "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
