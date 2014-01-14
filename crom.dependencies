@@ -1,25 +1,26 @@
 [
   {
     "remote":       "cm",
-    "repository":   "CyanogenMod/android_kernel_samsung_aries",
+    "repository":   "android_packages_apps_SamsungServiceMode",
+    "target_path":  "packages/apps/SamsungServiceMode",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "xr",
+    "repository":   "android_device_samsung_aries-common",
+    "target_path":  "device/samsung/aries-common",
+    "revision":     "kitkat"
+  },
+  {
+    "remote":       "cm",
+    "repository":   "android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
     "revision":     "cm-11.0"
   },
   {
-    "remote":      "cm",
-    "repository":  "CyanogenMod/android_packages_apps_SamsungServiceMode",
-    "target_path": "packages/apps/SamsungServiceMode",
-    "revision":    "cm-11.0"
-  },
-  {
-    "remote":     "aw",
-    "repository": "aways/proprietary_vendor_samsung",
-    "target_path": "vendor/samsung",
-    "revision":    "jb2"
-  },
-    "repository":   "X-ROM/android_device_samsung_aries-common",
-    "target_path":  "device/samsung/aries-common"
-
-  {
+    "remote":       "cm",
+    "repository":   "android_hardware_samsung",
+    "target_path":  "hardware/samsung",
+    "revision":     "cm-11.0"
+  }
 ]
-
