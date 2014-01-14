@@ -1,11 +1,5 @@
 [
   {
-    "remote":       "xr",
-    "repository":   "X-ROM/android_device_samsung_aries-common",
-    "target_path":  "device/samsung/aries-common",
-    "revision":     "kitkat"
-  },
-  {
     "remote":       "cm",
     "repository":   "CyanogenMod/android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
@@ -22,6 +16,10 @@
     "repository": "aways/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision":    "jb2"
-  }
+  },
+    "repository":   "X-ROM/android_device_samsung_aries-common",
+    "target_path":  "device/samsung/aries-common"
+
+  {
 ]
 
