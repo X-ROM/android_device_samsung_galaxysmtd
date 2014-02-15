@@ -6,7 +6,7 @@
     "revision":     "cm-11.0"
   },
   {
-    "repository":   "X-ROM/android_device_samsung_aries-common",
+    "repository":   "android_device_samsung_aries-common",
     "target_path":  "device/samsung/aries-common",
   },
   {
