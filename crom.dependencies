@@ -1,10 +1,10 @@
 [
   {
-    "repository":   "android_device_samsung_aries-common",
+    "repository":   "X-ROM/android_device_samsung_aries-common",
     "target_path":  "device/samsung/aries-common"
   },
   {
-    "repository":   "android_device_samsung_galaxysmtd",
+    "repository":   "X-ROM/android_device_samsung_galaxysmtd",
     "target_path":  "device/samsung/galaxysmtd"
   },
   {
