@@ -4,10 +4,6 @@
     "target_path":  "device/samsung/aries-common"
   },
   {
-    "repository":   "X-ROM/android_device_samsung_galaxysmtd",
-    "target_path":  "device/samsung/galaxysmtd"
-  },
-  {
     "remote":       "cm",
     "repository":   "CyanogenMod/android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
